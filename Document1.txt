@@ -1,0 +1,53 @@
+/var/www/beadblaze/app/etc/modules/Queldorei_Shopperslideshow.xml:        <Queldorei_Shopperslideshow>
+/var/www/beadblaze/app/etc/modules/Queldorei_Shopperslideshow.xml:        </Queldorei_Shopperslideshow>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/etc/config.xml:        <Queldorei_Shopperslideshow>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/etc/config.xml:        </Queldorei_Shopperslideshow>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/etc/config.xml:                                    <module>Queldorei_Shopperslideshow</module>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/etc/config.xml:                <class>Queldorei_Shopperslideshow_Model</class>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/etc/config.xml:                <class>Queldorei_Shopperslideshow_Model_Mysql4</class>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/etc/config.xml:                    <module>Queldorei_Shopperslideshow</module>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/etc/config.xml:                <class>Queldorei_Shopperslideshow_Block</class>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/etc/config.xml:                <class>Queldorei_Shopperslideshow_Helper</class>
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Helper/Data.php:class Queldorei_Shopperslideshow_Helper_Data extends Mage_Core_Helper_Abstract
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/controllers/Adminhtml/ShopperslideshowController.php:class Queldorei_Shopperslideshow_Adminhtml_ShopperslideshowController extends Mage_Adminhtml_Controller_Action
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/controllers/Adminhtml/ShopperrevolutionController.php:class Queldorei_Shopperslideshow_Adminhtml_ShopperrevolutionController extends Mage_Adminhtml_Controller_Action
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Slideshow.php:class Queldorei_Shopperslideshow_Block_Slideshow extends Mage_Core_Block_Template
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperrevolution.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperrevolution extends Mage_Adminhtml_Block_Widget_Grid_Container
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperslideshow extends Mage_Adminhtml_Block_Widget_Grid_Container
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperrevolution/Edit/Form.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperrevolution_Edit_Form extends Mage_Adminhtml_Block_Widget_Form
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperrevolution/Edit/Tab/Form.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperrevolution_Edit_Tab_Form extends Mage_Adminhtml_Block_Widget_Form
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperrevolution/Edit/Tabs.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperrevolution_Edit_Tabs extends Mage_Adminhtml_Block_Widget_Tabs
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperrevolution/Edit.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperrevolution_Edit extends Mage_Adminhtml_Block_Widget_Form_Container
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperrevolution/Edit.php-bkp-original:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperrevolution_Edit extends Mage_Adminhtml_Block_Widget_Form_Container
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperrevolution/Grid/Renderer/Image.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperrevolution_Grid_Renderer_Image extends Mage_Adminhtml_Block_Widget_Grid_Column_Renderer_Action {
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperrevolution/Grid.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperrevolution_Grid extends Mage_Adminhtml_Block_Widget_Grid
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit/Form.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperslideshow_Edit_Form extends Mage_Adminhtml_Block_Widget_Form
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit/Tab/Form.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperslideshow_Edit_Tab_Form extends Mage_Adminhtml_Block_Widget_Form
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit/Tab/Form.php:          if ( Mage::getSingleton('adminhtml/session')->getShopperslideshowData() )
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit/Tab/Form.php:                        $data = Mage::getSingleton('adminhtml/session')->getShopperslideshowData();
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit/Tab/Form.php:      if ( Mage::getSingleton('adminhtml/session')->getShopperslideshowData() )
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit/Tab/Form.php:          $form->setValues(Mage::getSingleton('adminhtml/session')->getShopperslideshowData());
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit/Tab/Form.php:          Mage::getSingleton('adminhtml/session')->getShopperslideshowData(null);
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit/Tabs.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperslideshow_Edit_Tabs extends Mage_Adminhtml_Block_Widget_Tabs
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Edit.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperslideshow_Edit extends Mage_Adminhtml_Block_Widget_Form_Container
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Grid/Renderer/Image.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperslideshow_Grid_Renderer_Image extends Mage_Adminhtml_Block_Widget_Grid_Column_Renderer_Action {
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Block/Adminhtml/Shopperslideshow/Grid.php:class Queldorei_Shopperslideshow_Block_Adminhtml_Shopperslideshow_Grid extends Mage_Adminhtml_Block_Widget_Grid
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Effect.php:class Queldorei_Shopperslideshow_Model_Config_Effect
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Yesno.php:class Queldorei_Shopperslideshow_Model_Config_Yesno
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Revolution/Navbar.php:class Queldorei_Shopperslideshow_Model_Config_Revolution_Navbar
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Revolution/Navbullets.php:class Queldorei_Shopperslideshow_Model_Config_Revolution_Navbullets
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Revolution/Onoff.php:class Queldorei_Shopperslideshow_Model_Config_Revolution_Onoff
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Revolution/Navarrows.php:class Queldorei_Shopperslideshow_Model_Config_Revolution_Navarrows
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Revolution/Timeline.php:class Queldorei_Shopperslideshow_Model_Config_Revolution_Timeline
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Revolution/Shadow.php:class Queldorei_Shopperslideshow_Model_Config_Revolution_Shadow
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Slider.php:class Queldorei_Shopperslideshow_Model_Config_Slider
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Config/Show.php:class Queldorei_Shopperslideshow_Model_Config_Show
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Shopperrevolution.php:class Queldorei_Shopperslideshow_Model_Shopperrevolution extends Mage_Core_Model_Abstract
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Shopperslideshow.php:class Queldorei_Shopperslideshow_Model_Shopperslideshow extends Mage_Core_Model_Abstract
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Status.php:class Queldorei_Shopperslideshow_Model_Status extends Varien_Object
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Mysql4/Shopperrevolution.php:class Queldorei_Shopperslideshow_Model_Mysql4_Shopperrevolution extends Mage_Core_Model_Mysql4_Abstract
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Mysql4/Shopperslideshow.php:class Queldorei_Shopperslideshow_Model_Mysql4_Shopperslideshow extends Mage_Core_Model_Mysql4_Abstract
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Mysql4/Shopperrevolution/Collection.php:class Queldorei_Shopperslideshow_Model_Mysql4_Shopperrevolution_Collection extends Mage_Core_Model_Mysql4_Collection_Abstract
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Mysql4/Shopperrevolution/Collection.php:      * @return Queldorei_Shopperslideshow_Model_Mysql4_Shopperrevolution_Collection
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Mysql4/Shopperslideshow/Collection.php:class Queldorei_Shopperslideshow_Model_Mysql4_Shopperslideshow_Collection extends Mage_Core_Model_Mysql4_Collection_Abstract
+/var/www/beadblaze/app/code/local/Queldorei/Shopperslideshow/Model/Mysql4/Shopperslideshow/Collection.php:       * @return Queldorei_Shopper
